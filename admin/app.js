@@ -585,8 +585,7 @@ tbody tr:hover{background:#f8fafc}
 <div id="a0" class="min-h-screen flex items-center justify-center p-5" style="background:#f1f5f9">
   <div class="login-card fade-in">
     <div class="text-center mb-8">
-      <img src="https://vocaltechmarketing.com/images/logo.png" alt="VTM" class="mx-auto h-12 w-auto mb-5">
-      <h1 class="text-xl font-bold tracking-tight" style="color:#0f172a">VTM CRM</h1>
+      <h1 class="text-xl font-bold tracking-tight" style="color:#0f172a">Artist Media CRM</h1>
       <p class="text-sm mt-1.5" style="color:#64748b">Call Analytics Portal</p>
     </div>
     <input id="a1" type="password" placeholder="Enter password" class="input-light w-full px-4 py-3.5 mb-4" onkeypress="if(event.key==='Enter')doLogin()">
@@ -600,9 +599,8 @@ tbody tr:hover{background:#f8fafc}
     <div class="max-w-7xl mx-auto px-5 sm:px-6 py-3.5 flex flex-wrap items-center justify-between gap-4">
       <div class="flex items-center gap-8">
         <div class="flex items-center gap-3">
-          <img src="https://vocaltechmarketing.com/images/logo.png" alt="VTM" class="h-8 w-auto">
           <div>
-            <h1 class="font-semibold text-[13.5px] leading-tight tracking-wide" style="color:#0f172a">VTM CRM</h1>
+            <h1 class="font-semibold text-[13.5px] leading-tight tracking-wide" style="color:#0f172a">Artist Media CRM</h1>
             <p class="text-[11px]" style="color:#64748b">Call Analytics</p>
           </div>
         </div>
@@ -786,9 +784,8 @@ tbody tr:hover{background:#f8fafc}
     <div class="inv-body" id="invoicePrintArea">
       <div class="inv-header">
         <div class="inv-brand">
-          <div class="inv-logo"><img src="https://vocaltechmarketing.com/images/logo.png" alt="VTM"></div>
           <div class="inv-company">
-            <h1>Vocal Tech Marketing</h1>
+            <h1>Artist Media</h1>
             <div class="tagline">Call Analytics & Lead Generation</div>
           </div>
         </div>
